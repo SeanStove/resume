@@ -9,6 +9,9 @@ skeets book chapters
 in a nutshell
 linq
 
+ts/js
+--
+
 advanced programming concepts (raw coding - examples on github)
 --
 
